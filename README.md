@@ -7,7 +7,7 @@ is a script that will generate new names for your Javascript framework, saving y
 
 Setup
 -----
-To run GeneratorJs, you will need the following dependencies:
+To run **GeneratorJS**, you will need the following dependencies:
 
 ### Dependencies:
 * `an-array-of-english-words`

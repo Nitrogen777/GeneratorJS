@@ -20,6 +20,6 @@ Usage
 -----
 Using **GeneratorJS** is easy! All you need to do is run
 
-node generator.js batch-size
+	node generator.js batch-size
 
 With `batch-size` being the number of names you want to generate.
